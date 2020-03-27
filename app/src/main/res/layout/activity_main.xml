@@ -226,6 +226,7 @@
         android:layout_marginTop="485dp"
         android:layout_marginLeft="310dp"
         android:text="="
+        android:onClick="btn_19"
         android:textSize="30dp"/>
 
 </RelativeLayout>
